@@ -1,2 +1,2 @@
-# Financial-report-dashboard
+# Financial report dashboard
 Personal project
