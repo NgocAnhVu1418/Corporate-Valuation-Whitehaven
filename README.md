@@ -1,2 +1,2 @@
 # Whitehaven Coal (WHC) - Valuation
-Personal project
+Project Overview
